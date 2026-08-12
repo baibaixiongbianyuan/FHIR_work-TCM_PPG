@@ -9,7 +9,7 @@
 ## Demo
 
 - 本機網址：`http://127.0.0.1:5000/`
-- Demo 影片：(https://youtu.be/PCYpJZRuNHg)
+- Demo 影片：
 - 測試帳號：
   - 病人：`C000000003`
   - 醫護：`B000000002`
